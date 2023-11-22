@@ -11,7 +11,7 @@ path when launching `configure`, e.g. `/ffmpegdir/ffmpeg/configure`.
 
 3. Type `make install` to install all binaries and libraries you built.
 
-NOTICE
+NOTICEs
 ------
 
  - Non system dependencies (e.g. libx264, libvpx) are disabled by default.
